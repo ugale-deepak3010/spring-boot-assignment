@@ -8,11 +8,11 @@
 		<version>3.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Assignment1</groupId>
-	<artifactId>Assignment1</artifactId>
+	<groupId>com.SpringBoot_SAssignment2</groupId>
+	<artifactId>Assignment2</artifactId>
 	<version>v1</version>
-	<name>Assignment1</name>
-	<description>Assignment1</description>
+	<name>Assignment2</name>
+	<description>SpringBoot just playing</description>
 	<url/>
 	<licenses>
 		<license/>
